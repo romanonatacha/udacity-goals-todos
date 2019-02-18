@@ -1,6 +1,6 @@
 import React from 'react'
-import ConnectedTodos from  './Todos'
-import ConnectedGoals from '.Goals'
+import ConnectedTodos from './Todos'
+import ConnectedGoals from './Goals'
 import { connect } from 'react-redux'
 import {
   handleInitialData
